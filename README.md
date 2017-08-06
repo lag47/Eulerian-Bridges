@@ -1,6 +1,6 @@
 # MoMath Hackathon 2017: Eulerian Bridges!
 
-- Math Square behavior
+- _Math Square_ behavior
 - Navid Mamoon (navidmx@gmail.com) and Lucas Silver (lag4777@gmail.com)
 
 ## The Math
