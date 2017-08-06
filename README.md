@@ -15,6 +15,7 @@ This submission displays an interactive, colorful graph with islands representin
 
 We believe that concealing a fundamental graph theory as a basic puzzle with cute visuals can engage people in a way that is accessible even to children. Thus, we framed it with the simple story "cross every bridge and get back home!" and made use of visually appealing colors, familiar islands, trees, rocks, etc.
 Because we expect it to be used by young children, it is also prepared to deal with multiple players running across the Math Square. It only reacts if someone walks onto a valid "next" node, and even has random fish appearing that kids can interact with, and make "run away" by stepping on them.
+We configured the code so that new Graphs can be added easily. All you have to do is specify the location and size of the nodes and the set of edges.
 Similarly to most of MoMath's exhibits, we believe this program successfully packages a classic well-known mathematics puzzle with an intriguing and altogether fun to play game!
 
 ---
