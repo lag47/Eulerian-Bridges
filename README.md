@@ -19,5 +19,5 @@ Similarly to most of MoMath's exhibits, we believe this program successfully pac
 
 ---
 
-Behavior file: bridges.js
+Behavior file: bridges.js <br />
 Background Image: water.png (should be placed in /images)
