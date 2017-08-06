@@ -5,15 +5,17 @@
 
 ## The Math
 
-This interactive display lets participants find an Eulerian Cycle in a Graph. The Eulerian Cycle problem (a famous example being the Seven Bridges of Konigsberg) asks whether it is possible to find a cycle through the graph that crosses every edge of the graph exactly once.
+This interactive display challenges participants to identify the Eulerian Cycle in a graph. The Eulerian Cycle problem (a famous example being the Seven Bridges of Königsberg) asks whether it is possible to follow a trail through the graph that starts and ends at the same graph vertex, crossing every edge only once. In order for a graph to be a Eulerian Cycle, each vertex must be of an even degree.
 
 ## The Submission
 
-The Math Square displays a representation of a Graph, with nodes as islands and edges as bridges. Starting with a designated starting node, you try to cross edges to reach one of the adjacent nodes, which are indicated by the color gold. As you cross an edge, it disappears. In the end you either find an Eulerian Cycle or you end up trapped and informed that you "lost". We believe that framing a fundamental graph theory as a simple maze with cute visuals, including randomly appearing fish, can engage people with the problem in a way that is accessible even to children. Because we expect it to mostly be used by small children, it is prepared to deal with kids running randomly accross the Math Square. It only reacts if someone walks onto a valid "next" node.
+This submission displays an interactive, colorful graph with islands representing points and bridges representing lines that connect these points. Starting with a designated starting island (the player's "home"), you must try to cross each edge (a "bridge") to reach one of the indicated adjacent nodes. As you cross a bridge, it disappears. In the end you either find an Eulerian Cycle and move on to the next randomly selected map, or you end up trapped and are informed that you "lost," resetting the game.
 
 ## Additional Notes
 
-
+We believe that framing a fundamental graph theory as a simple maze with cute visuals can engage people in a way that is accessible even to children. Thus, we framed it with the simple story "cross every bridge and get back home!" and made use of visually appealing colors and graphics.
+Because we expect it to be used by young children, it is prepared to deal with multiple players running across the Math Square. It only reacts if someone walks onto a valid "next" node, and even has random fish appearing that kids can interact with, and make "run away" by stepping on them.
+Similarly to most of MoMath's other exhibits, we believe this problem successfully disguises a classic well-known mathematics puzzle with an intriguing and altogether fun to play game!
 
 ---
 
